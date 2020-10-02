@@ -11,14 +11,14 @@ into believing that it was a human."
 				
 			- Alan Turing
 
-A Poem:
+Another Poem:
 i don't pay attention to the
 world ending.
 it has ended for me 
 many times
 and began again in the morning.
 
-A Quote:
+Another Quote:
 "Everyone is a genius. But if you judge
 a fish on its ability to climb a tree,
 it will live its whole life believing
