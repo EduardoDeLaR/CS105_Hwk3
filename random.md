@@ -10,4 +10,10 @@ intelligent if it could deceive a human
 into believing that it was a human."
 				
 			- Alan Turing
- 
+
+A Poem:
+i don't pay attention to the
+world ending.
+it has ended for me 
+many times
+and began again in the morning.
