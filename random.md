@@ -32,3 +32,11 @@ Her early leaf's a flower;
 But only so an hour
 
 		- robert Frost
+
+Another Poem:
+Tiny little secrets
+Get buried in the dirt,
+And if they were dug up,
+Someone would probably get hurt,
+
+		- Jessica Knight
