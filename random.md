@@ -52,7 +52,8 @@ Change the world by being yourself.
 
 
 
-
+Last Quote:
+Sometimes you don’t have to use many words to get your point across.
 
 
 
