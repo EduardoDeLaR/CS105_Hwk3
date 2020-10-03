@@ -49,6 +49,11 @@ when you believe.
 
 Another Quote:
 Sometimes you don’t have to use many words to get your point across.
+<<<<<<< HEAD
+=======
+
+This is the end of the assignment.
+>>>>>>> path2a
 
 This is the end of the assignment.
 
