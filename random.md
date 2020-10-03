@@ -22,8 +22,13 @@ Another Quote:
 "Everyone is a genius. But if you judge
 a fish on its ability to climb a tree,
 it will live its whole life believing
-it is stupid."
+it is stupid.
+		- Albetr Einstein 
 
-hey avnish was here.
+A Poem:
+Nature's first green is gold,
+Her hardest hue to hold.
+Her early leaf's a flower;
+But only so an hour
 
-			- Albert Einstein
+		- robert Frost
