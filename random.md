@@ -40,3 +40,9 @@ And if they were dug up,
 Someone would probably get hurt,
 
 		- Jessica Knight
+
+A Qoute:
+It is a terrifying thing
+to watch love
+walk in your direction
+when you believe. 
