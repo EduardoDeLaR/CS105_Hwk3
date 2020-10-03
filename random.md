@@ -45,4 +45,19 @@ A Qoute:
 It is a terrifying thing
 to watch love
 walk in your direction
-when you believe. 
+when you believe.
+
+Another Quote:
+Change the world by being yourself.
+
+
+
+
+
+
+
+
+
+
+
+ 
