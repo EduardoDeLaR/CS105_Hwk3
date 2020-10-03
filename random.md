@@ -48,7 +48,9 @@ walk in your direction
 when you believe.
 
 Another Quote:
-Change the world by being yourself.
+Sometimes you don’t have to use many words to get your point across.
+
+This is the end of the assignment.
 
 
 
